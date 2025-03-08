@@ -1,1 +1,5 @@
-Now it using gnome as DE and also have some nvidia troubles
+Gnome with extensions
+neovim with plugins
+Hyprland
+amneziawg
+fish shell
